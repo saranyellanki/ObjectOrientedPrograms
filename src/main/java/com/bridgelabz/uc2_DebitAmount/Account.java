@@ -7,7 +7,6 @@ public class Account {
 
     /**
      * Constructor to initialize account balance
-     *
      * @param accountBalance fetch data from user
      */
     public Account(double accountBalance) {
@@ -43,7 +42,6 @@ public class Account {
 
     /**
      * fetch account balance from user initially
-     *
      * @param args command line arguments
      */
     public static void main(String[] args) {
